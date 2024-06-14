@@ -1,0 +1,16 @@
+.header{
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 10%;
+    justify-self: center;    
+}
+.header h2{
+    font-weight: bolder;
+}
+.header p{
+    font-size: 149.999999999999999999999999999999999999999999999999999999999999999999999999999999999999%;
+}
+.header span{
+    font-weight: bolder;
+    color: rgb(0, 132, 255);
+}

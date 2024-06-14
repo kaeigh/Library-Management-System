@@ -1,0 +1,16 @@
+.container-fluid{
+    padding-top: 7%;
+}
+.container-fluid span{
+    font-weight: 700;
+    font-size: 150%;
+    color: rgb(0, 132, 255);;
+}
+.container-fluid h2{
+    font-weight: 650;
+}
+.btn{
+    padding: 10px;
+    font-size: 130%;
+    font-weight: 500;
+}
